@@ -1,0 +1,13 @@
+typee,amount,category,description, date
+----------------------------------------------
+credit,500,milk,milk packets,"April 24 2025, 20:38"
+credit,500,milk,milk packets,"April 24 2025, 20:46"
+credit,500,milk,milk packets,"April 25 2025, 11:20"
+credit,500,milk,milk packets,"April 25 2025, 11:20"
+credit,500,milk,milk packets,"April 25 2025, 11:23"
+debit,500,milk,milk packets,"April 25 2025, 11:23"
+debit,500,food,milk packets,"April 25 2025, 14:16"
+debit,500,food,milk packets,"April 26 2025, 20:08"
+debit,500,food,milk packets,"April 28 2025, 12:00"
+debit,500,food,milk packets,"April 28 2025, 12:06"
+debit,500,food,milk packets,"April 28 2025, 12:29"

@@ -1,0 +1,79 @@
+[
+    {
+        "typee": "credit",
+        "amount": "500",
+        "category": "milk",
+        "description": "milk packets",
+        "date": 1745507337
+    },
+    {
+        "typee": "credit",
+        "amount": "500",
+        "category": "milk",
+        "description": "milk packets",
+        "date": 1745507794
+    },
+    {
+        "typee": "credit",
+        "amount": "500",
+        "category": "milk",
+        "description": "milk packets",
+        "date": 1745560238
+    },
+    {
+        "typee": "credit",
+        "amount": "500",
+        "category": "milk",
+        "description": "milk packets",
+        "date": 1745560254
+    },
+    {
+        "typee": "credit",
+        "amount": "500",
+        "category": "milk",
+        "description": "milk packets",
+        "date": 1745560390
+    },
+    {
+        "typee": "debit",
+        "amount": "500",
+        "category": "milk",
+        "description": "milk packets",
+        "date": 1745560435
+    },
+    {
+        "typee": "debit",
+        "amount": "500",
+        "category": "food",
+        "description": "milk packets",
+        "date": 1745570766
+    },
+    {
+        "typee": "debit",
+        "amount": 500,
+        "category": "food",
+        "description": "milk packets",
+        "date": 1745678305
+    },
+    {
+        "typee": "debit",
+        "amount": 500,
+        "category": "food",
+        "description": "milk packets",
+        "date": 1745821808
+    },
+    {
+        "typee": "debit",
+        "amount": 500,
+        "category": "food",
+        "description": "milk packets",
+        "date": 1745822206
+    },
+    {
+        "typee": "debit",
+        "amount": 500,
+        "category": "food",
+        "description": "milk packets",
+        "date": 1745823544
+    }
+]
