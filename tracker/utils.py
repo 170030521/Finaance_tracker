@@ -15,6 +15,7 @@ def save_to_file(filepath,data):
     with open(filepath,"w") as f:
         json.dump(read,f,indent=4)
 
+#this is json file
 @log
 def delete_from_file(filepath):
     read=load_from_file(filepath)
