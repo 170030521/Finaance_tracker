@@ -22,11 +22,13 @@ def delete_from_file(filepath):
     with open(filepath,"w") as f:
         json.dump(read,f,indent=4)
 
+# this is for csv file
 @log
 def write_csv_file(filepath,data):
     with open(filepath,"w",newline="") as f:
         writer=csv.writer(f)
         writer.writerows(data)
+
 
 # def open        
        
